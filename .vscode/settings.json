@@ -1,0 +1,21 @@
+{
+    "folder-color.favoriteColors": [],
+    "folder-color.pathColors": [
+        {
+            "folderPath": "Landing_Page/Mod/css/",
+            "color": "foldercolorizer.color_5fd7ff"
+        },
+        {
+            "folderPath": "Landing_Page/Mod/images/",
+            "color": "foldercolorizer.color_00ff00"
+        },
+        {
+            "folderPath": "Landing_Page/Mod/js/",
+            "color": "foldercolorizer.color_afaf00"
+        },
+        {
+            "filePath": "Landing_Page/Mod/index.html",
+            "color": "foldercolorizer.color_ff00ff"
+        }
+    ]
+}
